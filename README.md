@@ -1,9 +1,9 @@
-# UTCSUD - Game Level For Tremulous
+# UTCSUD 1.3 - Game Level For Tremulous
 ![header](meta/header/header.jpg) 
 
 ## Overview: UTCS Remastered
 
-UTCSUD is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/).
+UTCSUD 1.3 is a game level by Matthias "Masmblr" Peters for the open source game [_Tremulous_](https://tremulous.net/).
 
 Map Description: 
 > This is a Tremulous map that pays homage to Adam "Chompers" Wilkinson's iconic layout from UTCS, while presenting an fresh and revitalized gaming experience. Constructed from the ground up, this map utilizes the eX Texture Pack to elevate its visuals.
@@ -15,20 +15,6 @@ Map Description:
 * * *
 
 ## Screenshots:
-Tremulous screenshots (4.4): </br>
-[<img src="meta/preview_levelshots/1.jpg" width="250"/>](meta/preview_levelshots/1.jpg)
-[<img src="meta/preview_levelshots/2.jpg" width="250"/>](meta/preview_levelshots/2.jpg)
-[<img src="meta/preview_levelshots/3.jpg" width="250"/>](meta/preview_levelshots/3.jpg)
-[<img src="meta/preview_levelshots/4.jpg" width="250"/>](meta/preview_levelshots/4.jpg)
-[<img src="meta/preview_levelshots/5.jpg" width="250"/>](meta/preview_levelshots/5.jpg)
-[<img src="meta/preview_levelshots/6.jpg" width="250"/>](meta/preview_levelshots/6.jpg)
-[<img src="meta/preview_levelshots/7.jpg" width="250"/>](meta/preview_levelshots/7.jpg)
-[<img src="meta/preview_levelshots/8.jpg" width="250"/>](meta/preview_levelshots/8.jpg)
-[<img src="meta/preview_levelshots/9.jpg" width="250"/>](meta/preview_levelshots/9.jpg)
-[<img src="meta/preview_levelshots/10.jpg" width="250"/>](meta/preview_levelshots/10.jpg)
-[<img src="meta/preview_levelshots/11.jpg" width="250"/>](meta/preview_levelshots/11.jpg)
-[<img src="meta/preview_levelshots/12.jpg" width="250"/>](meta/preview_levelshots/12.jpg)
-
 Tremulous 1.3 (inofficial) ([GrangerHub](http://www.Grangerhub.org/)): </br>
 [<img src="meta/preview_levelshots_trem1.3/1.jpg" width="250"/>](meta/preview_levelshots_trem1.3/1.jpg)
 [<img src="meta/preview_levelshots_trem1.3/2.jpg" width="250"/>](meta/preview_levelshots_trem1.3/2.jpg)
@@ -43,16 +29,6 @@ Tremulous 1.3 (inofficial) ([GrangerHub](http://www.Grangerhub.org/)): </br>
 [<img src="meta/preview_levelshots_trem1.3/11.jpg" width="250"/>](meta/preview_levelshots_trem1.3/11.jpg)
 [<img src="meta/preview_levelshots_trem1.3/12.jpg" width="250"/>](meta/preview_levelshots_trem1.3/12.jpg)
 [<img src="meta/preview_levelshots_trem1.3/13.jpg" width="250"/>](meta/preview_levelshots_trem1.3/13.jpg)
-
-## Version History: **Tremulous**
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0 - 3.0    | 01/01/2015  | alpha | :x:        |     
-| 4.0     | 16/10/2015  | alpha | :x:        |     
-| 4.1     | 19/10/2015  | beta | :x:        |    
-| 4.2     | 07/11/2015  | beta | :x:        |  
-| 4.3     | 08/11/2015  | beta | :x:        |  
-| 4.4     | 06/08/2023  | final | [💾](https://github.com/Masmblr/map-UTCSUD_src/releases/) |
 
 ## Version History: **Tremulous 1.3 (inofficial)**
 | Version: | Date:        | Status: | Release Build (.pk3):       
@@ -105,55 +81,6 @@ Unofficial successor "Unvanquished": https://unvanquished.net
 
 ## Legal Information and Attribution
 Some assets may be derivative works or subject to different licenses. Please refer for author and license details. Note that some files may have been modified. Below is a list of files and their legal statuses.
-
-**Tremulous:**
-***
-levelshots\utcsud.jpg <sup>[1](#Credit-1)</sup> \
-maps\utcsud.map <sup>[1](#Credit-1)</sup> \
-scripts\shaderlist.txt <sup>[1](#Credit-1)</sup> \
-scripts\utcsud.arena <sup>[1](#Credit-1)</sup> \
-scripts\utcsud.shader <sup>[1](#Credit-1)</sup> \
-textures\utcsud\blk.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\credits.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\credits_lines.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_01.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_02.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_03.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_03_blend.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_03_blend_blue.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_03_blend_red.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_03b.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_03r.jpg <sup>[1](#Credit-1)</sup> \
-textures\utcsud\utcsud_04.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_04_blend.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_05.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_06.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_07.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_08.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_09.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_10.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_11.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_12.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_13.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_14.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_15.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_16.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_17.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_18.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_19.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_20.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_20_blend.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_21.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_22.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\utcsud_24.jpg <sup>[2](#Credit-2)</sup> \
-textures\utcsud\wasser.jpg <sup>[1](#Credit-1)</sup> \
-env\utcsud\ud_bk.jpg <sup>[3](#Credit-3)</sup> \
-env\utcsud\ud_dn.jpg <sup>[3](#Credit-3)</sup> \
-env\utcsud\ud_ft.jpg <sup>[3](#Credit-3)</sup> \
-env\utcsud\ud_lf.jpg <sup>[3](#Credit-3)</sup> \
-env\utcsud\ud_rt.jpg <sup>[3](#Credit-3)</sup> \
-env\utcsud\ud_up.jpg <sup>[3](#Credit-3)</sup>
-***
 
 **Tremulous 1.3 (inofficial):**
 ***
