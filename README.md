@@ -30,14 +30,14 @@ Tremulous screenshots (4.4): </br>
 [<img src="meta/preview_levelshots/12.jpg" width="250"/>](meta/preview_levelshots/12.jpg)
 
 ## Version History: **Tremulous**
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0 - 3.0    | 01/01/2015  | alpha | :x:        |     
-| 4.0     | 16/10/2015  | alpha | :x:        |     
-| 4.1     | 19/10/2015  | beta | :x:        |    
-| 4.2     | 07/11/2015  | beta | :x:        |  
-| 4.3     | 08/11/2015  | beta | :x:        |  
-| 4.4     | 06/08/2023  | final | [💾](https://github.com/Masmblr/map-UTCSUD_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0 - 3.0    | 01/01/2015  | alpha |
+| 4.0     | 16/10/2015  | alpha |
+| 4.1     | 19/10/2015  | beta |
+| 4.2     | 07/11/2015  | beta |
+| 4.3     | 08/11/2015  | beta |
+| 4.4     | 06/08/2023  | release |
 
 ## How-To
 **Binary**:
@@ -135,7 +135,7 @@ env\utcsud\ud_up.jpg <sup>[3](#Credit-3)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
