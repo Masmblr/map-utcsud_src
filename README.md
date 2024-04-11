@@ -31,9 +31,9 @@ Tremulous 1.3 (inofficial) ([GrangerHub](http://www.Grangerhub.org/)): </br>
 [<img src="meta/preview_levelshots_trem1.3/13.jpg" width="250"/>](meta/preview_levelshots_trem1.3/13.jpg)
 
 ## Version History: **Tremulous 1.3 (inofficial)**
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.1 / 1.1     | 15/10/2016  | experimental beta | [💾](https://github.com/Masmblr/map-UTCSUD_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.1 | 15/10/2016  | experimental beta |
 
 ## How-To
 **Binary**:
@@ -321,7 +321,7 @@ textures\utcsud\vent_01.tga <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
